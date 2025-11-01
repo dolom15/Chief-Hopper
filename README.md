@@ -1,1 +1,1 @@
-# Chief-Hopper
+# Chief-Hopper This C# program calculates the **minimum initial energy** a robot needs to jump over a series of buildings without its energy dropping below zero. It works **backward through the building heights**, using a formula that ensures enough energy is available before each jump.
